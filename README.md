@@ -1,4 +1,7 @@
 # MobileNetV3_Large Based Improvements
+## Project Description: 
+
+It is the final project of NTU AI6103. Based on mobileNet_v3 large model, we utilized several strategies to improve its performance. These strategies include dataset augmentation, training schedule exploration, and architecture tuning in a total of three aspects. We evaluate our strategies on CIFAR-10 and CIFAR-100 to verify the effectiveness of our methods. To the best of our knowledge, the SOTA accuracy of mobileNet V3 on CIFAR-10 and CIFAR-100 is 92.74% and 77.7% (Haase and Amthor 2020a) respectively. And our strategy have further enhanced it to 95.61% and 80.9% respectively. 
 
 ## Environment setup
 ```shell
